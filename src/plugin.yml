@@ -1,0 +1,9 @@
+main: me.Turttles.Main
+name: mcfVoteListener
+version: mf-b1.0
+authors: [Turttles]
+description: default/basic vote listener crafted with ❤ for mcf
+commands:
+    vote:
+        usage: /<command>
+        description: Vote Command
